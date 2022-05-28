@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
+name: Shreyas Kulkarni
+avatar: /static/images/shreyas.jpg
+occupation: Technical Analyst
+company: Citi
+email: shreyask3004@gmail.com
+twitter: https://twitter.com/shreyask3004
+linkedin: https://www.linkedin.com/in/kul-shreyas
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am from Amravati, Maharashtra currently working as a Technical Analyst at Citi.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+My areas of interest are Technology, Design, History, Photography, Film Making,
+Books, Travel and whole lot more. I share my experience and learnings in all these areas
+as I dive into them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like to be a generalist and enjoy things that are hands on. I aspire to travel the world,
+read loads of books, meet new people, and have time freedom doing things that I love the most,
+helping solve real world problems.

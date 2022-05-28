@@ -1,20 +1,20 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'LiReddit',
+    description: `Reddit clone - a full stack project made with Nodejs, Apollo Express, Postgres backend
+    and Nextjs as the frontend. Features include User Register, Login, Authentication, 
+    New Post, Upvotes/Downvote, Pagination.`,
+    imgSrc: '/static/images/lireddit.png',
+    href: 'https://www.kshreyas.com',
   },
-  {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
-  },
+  // {
+  //   title: 'The Time Machine',
+  //   description: `Imagine being able to travel back in time or to the future. Simple turn the knob
+  //   to the desired date and press "Go". No more worrying about lost keys or
+  //   forgotten headphones with this simple yet affordable solution.`,
+  //   imgSrc: '/static/images/time-machine.jpg',
+  //   href: '/blog/the-time-machine',
+  // },
 ]
 
 export default projectsData
